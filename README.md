@@ -37,13 +37,13 @@ Random Forest was chosen as the final model for its balance between precision an
 ## Sample Results
 
 ### Confusion Matrix (Random Forest)
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Feature Importance (Random Forest)
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ### KMeans Clustering of Unresolved Cases (Exploratory)
-![Crime Clusters](images/crime_clusters.png)
+![Crime Clusters](crime_clusters.png)
 
 ---
 
